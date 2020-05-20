@@ -1,4 +1,6 @@
 
+[![Build Status](https://brewaa.visualstudio.com/Space%20Game/_apis/build/status/brewaa.mslearn-tailspin-spacegame-web%20(2)?branchName=master)](https://brewaa.visualstudio.com/Space%20Game/_build/latest?definitionId=8&branchName=master)
+
 # Contributing
 
 This project welcomes contributions and suggestions.  Most contributions require you to agree to a
